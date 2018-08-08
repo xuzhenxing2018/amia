@@ -1,3 +1,3 @@
 # amia
 
-This is the results of precision and recall. 
+This is the results of precision, recall, and F-score. 
